@@ -1,4 +1,4 @@
-![logo](https://github.com/Mahadi1000/ReadMe/blob/main/Wiring%20with%20A%20Web%20Developer%20(1).gif)
+![logo](https://github.com/Mahadi1000/Mahadi1000/blob/main/Wiring%20with%20A%20Web%20Developer%20(1).gif)
 <h1 align="center">Hi 👋, I'm Mahadi Hasan</h1>
  <img align="right" alt="coding" width="400px" src="https://github.com/Mahadi1000/Mahadi1000/blob/main/Transparency.jpeg">
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
