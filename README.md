@@ -29,7 +29,47 @@ I'm **Mahadi Hasan**, a passionate **Full-Stack Developer** from **Bangladesh**,
 ---
 
 ## 🧰 Tech Stack
-(unchanged — keeping your icons)
+
+### 💻 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42"/>
+  <img src="https://nestjs.com/img/logo_text.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://prismalens.vercel.app/header/logo-dark.svg" width="90"/>
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+</p>
+
+### 🤖 AI & Agentic Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -66,3 +106,4 @@ I'm **Mahadi Hasan**, a passionate **Full-Stack Developer** from **Bangladesh**,
 > “I love turning complex problems into simple, elegant, and efficient solutions.”
 
 <h3 align="center">⭐ Let’s build something amazing together!</h3>
+
