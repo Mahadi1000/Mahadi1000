@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mahadi Hasan</h1>
 <h3 align="center">🚀 Full-Stack (MERN + NestJS) Developer | AI & Agentic Systems Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github.com/Mahadi1000/Mahadi1000/blob/main/Transparency.jpeg" width="420" alt="Developer at work"/>
-</p>
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -106,4 +101,5 @@ I'm **Mahadi Hasan**, a passionate **Full-Stack Developer** from **Bangladesh**,
 > “I love turning complex problems into simple, elegant, and efficient solutions.”
 
 <h3 align="center">⭐ Let’s build something amazing together!</h3>
+
 
