@@ -1,25 +1,82 @@
 <h1 align="center">👋 Hi, I'm Mahadi Hasan</h1>
-<h3 align="center">🚀 Full-Stack (MERN + NestJS) Developer | AI & Agentic Systems Enthusiast</h3>
+<h3 align="center">
+Full-Stack Engineer (MERN + NestJS) • AI & Agentic Systems Builder
+</h3>
 
 ---
 
-## 👨‍💻 About Me
-I'm **Mahadi Hasan**, a passionate **Full-Stack Developer** from **Bangladesh**, focused on building scalable and intelligent applications.
+## 🧭 About Me
 
-- 💼 Building: AI-driven platforms, e-commerce, agentic chat systems  
-- 💬 Ask me about: React • Next.js • NestJS • Prisma • PostgreSQL • MongoDB  
-- 🌱 Learning: LangChain • LangGraph • Multi-Modal AI  
-- 🧠 Passion: Agentic AI • Clean Architecture • Scalable Systems  
-- 📫 Email: **muhammadmahdihasan1@gmail.com**
+I’m **Mahadi Hasan**, a full-stack engineer from **Bangladesh** who enjoys building **reliable systems that scale** — from backend architecture and infrastructure to AI-powered user experiences.
+
+I focus on **clarity, simplicity, and long-term maintainability**. I believe good software is not just about working code, but about making thoughtful decisions that help teams move faster and systems stay healthy.
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.facebook.com/md.mahdi.hasan00"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/></a>
-  <a href="https://www.youtube.com/@OnnorokomProgramming"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="36"/></a>
-  <a href="https://linkedin.com/in/mahadi-hasan-7027b72b4"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/></a>
-</p>
+## 🧠 What I Work On
+
+- Agentic AI systems and intelligent workflows  
+- Scalable backend systems and APIs  
+- Production-ready web applications  
+- Performance, reliability, and clean architecture  
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Data
+- **NestJS**, Node.js, Express js, Hono js 
+- **Prisma**, **Drizzle ORM**, **TypeORM** PostgreSQL, MySQL, MongoDB  
+- REST APIs, **GraphQL** authentication, authorization  
+
+### Frontend
+- **React JS**, **Next.js**, Tailwind CSS, GSAP, Framer motion.  
+- Modern UI patterns, SEO-friendly apps  
+
+### AI & Agentic Systems
+- LLM-powered applications  
+- **RAG**, LangChain, LangGraph, Vector DB, LlamaIndex 
+- Multi-agent workflows and tool-based reasoning  
+- Building AI systems that integrate cleanly with real products  
+
+### DevOps & Infrastructure
+- Linux (Ubuntu) server management  
+- **Nginx** (reverse proxy, SSL, performance tuning)  
+- **Docker & Docker Compose**  
+- VPS & cloud deployments  
+- SSH, environment security, firewalls  
+- Monitoring, logs, and basic CI/CD pipelines  
+
+---
+
+## 🧩 How I Think About Engineering
+
+- Simple solutions beat clever ones  
+- Systems should be easy to understand, not just powerful  
+- Code is read more often than it’s written  
+- Reliability and ownership matter more than hype  
+- AI should **augment systems**, not complicate them  
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced agentic patterns  
+- Multi-modal AI applications  
+- Scalable AI infrastructure  
+- Better ways to combine AI with traditional software systems  
+
+---
+
+## 📫 Contact
+
+- 📧 **muhammadmahdihasan1@gmail.com**
+
+---
+
+<sub>
+I enjoy working with teams that value thoughtful engineering, clear communication, and building things that last.
+</sub>
 
 ---
 
@@ -101,5 +158,6 @@ I'm **Mahadi Hasan**, a passionate **Full-Stack Developer** from **Bangladesh**,
 > “I love turning complex problems into simple, elegant, and efficient solutions.”
 
 <h3 align="center">⭐ Let’s build something amazing together!</h3>
+
 
 
