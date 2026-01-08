@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mahadi Hasan</h1>
 <h3 align="center">
-Full-Stack Engineer (MERN + NestJS) • AI & Agentic Systems Builder
+Full-Stack Engineer (MERN + NestJS + Django) • AI & Agentic Systems Builder
 </h3>
 
 ---
@@ -25,8 +25,8 @@ I focus on **clarity, simplicity, and long-term maintainability**. I believe goo
 ## 🛠️ Tech Stack
 
 ### Backend & Data
-- **NestJS**, Node.js, Express js, Hono js 
-- **Prisma**, **Drizzle ORM**, **TypeORM** PostgreSQL, MySQL, MongoDB  
+- **NestJS**, Node.js, Express js, Hono js, Django, Fast API 
+- **Prisma**, **Drizzle ORM**, **TypeORM**, PostgreSQL, MySQL, MongoDB  
 - REST APIs, **GraphQL** authentication, authorization  
 
 ### Frontend
@@ -158,6 +158,7 @@ I enjoy working with teams that value thoughtful engineering, clear communicatio
 > “I love turning complex problems into simple, elegant, and efficient solutions.”
 
 <h3 align="center">⭐ Let’s build something amazing together!</h3>
+
 
 
 
