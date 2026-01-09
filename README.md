@@ -155,9 +155,10 @@ I enjoy working with teams that value thoughtful engineering, clear communicatio
 ---
 
 ## ⚡ Fun Fact
-> “I love turning complex problems into simple, elegant, and efficient solutions.”
+> <h3> “I love turning complex problems into simple, elegant, and efficient solutions.” </h3> 
 
 <h3 align="center">⭐ Let’s build something amazing together!</h3>
+
 
 
 
