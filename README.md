@@ -72,14 +72,6 @@ I focus on **clarity, simplicity, and long-term maintainability**. I believe goo
 
 - 📧 **muhammadmahdihasan1@gmail.com**
 
----
-
-<sub>
-I enjoy working with teams that value thoughtful engineering, clear communication, and building things that last.
-</sub>
-
----
-
 ## 🧰 Tech Stack
 
 ### 💻 Frontend
@@ -158,6 +150,7 @@ I enjoy working with teams that value thoughtful engineering, clear communicatio
 > <h3> “I love turning complex problems into simple, elegant, and efficient solutions.” </h3> 
 
 <h3 align="center">⭐ Let’s build something amazing together!</h3>
+
 
 
 
